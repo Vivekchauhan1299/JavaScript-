@@ -12,3 +12,6 @@ accountCity = "bangluru"
 
 
 console.table([accountId,accountEmail,password,accountCity,accountState])
+
+
+// use only const and let to declare variable
